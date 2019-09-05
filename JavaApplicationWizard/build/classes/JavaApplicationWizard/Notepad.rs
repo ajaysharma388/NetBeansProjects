@@ -1,0 +1,9 @@
+JavaApplicationWizard.Notepad$1
+JavaApplicationWizard.Notepad$2
+JavaApplicationWizard.Notepad$3
+JavaApplicationWizard.Notepad$4
+JavaApplicationWizard.Notepad$5
+JavaApplicationWizard.Notepad$6
+JavaApplicationWizard.Notepad
+JavaApplicationWizard.MenuConstants
+JavaApplicationWizard.FileOperation

@@ -1,0 +1,2 @@
+maxconsecutiveonce.MaxConsecutiveOne
+maxconsecutiveonce.MaxConsecutiveOnes

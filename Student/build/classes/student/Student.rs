@@ -1,0 +1,10 @@
+student.Student1
+student.Main
+student.MyComp
+Student.Main
+student.Student
+Student.Student
+com.company.Main
+Student.MyComp
+com.company.Student
+com.company.MyComp

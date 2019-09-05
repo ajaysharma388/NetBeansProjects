@@ -1,0 +1,3 @@
+JavaApplicationWizard.MyFileFilter
+JavaApplicationWizard.FileFilterDemo$1
+JavaApplicationWizard.FileFilterDemo
